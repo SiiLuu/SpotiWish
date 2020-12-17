@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.footer-right * .MuiSlider-root {
+  color: #10b981;
+}
+
+.body_icons > .MuiSvgIcon-root {
+  margin-right: 20px;
+}
+
+.body::-webkit-scrollbar {
+  display: none;
+}
